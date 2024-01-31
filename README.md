@@ -1,5 +1,3 @@
-# real-estate-predictor
-
 # RealAgents House Sales Project
 
 ## Overview
