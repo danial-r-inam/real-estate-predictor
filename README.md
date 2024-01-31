@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the completed practical exam for the RealAgents real estate company. The project's primary objective was to optimize house listing prices by predicting sale prices based on house characteristics. The data provided includes historical sales in a specified metropolitan area. Key features include house ID, city, sale price, sale date, months listed, number of bedrooms, house type, and area.
+The project's primary objective was to optimize house listing prices by predicting sale prices based on house characteristics. The data provided includes historical sales in a specified metropolitan area. Key features include house ID, city, sale price, sale date, months listed, number of bedrooms, house type, and area.
 
 ## Project Structure
 
